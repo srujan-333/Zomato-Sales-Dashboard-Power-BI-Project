@@ -1,0 +1,501 @@
+﻿Order_ID,Order_Date,City,Restaurant_Name,Cuisine,Order_Value,Quantity,Customer_ID,Delivery_Rating,Payment_Mode,Order_Status
+1001,01-01-2023,Mumbai,Spice Hub,Fast Food,473,4,2107,4.5,Debit Card,Delivered
+1002,02-01-2023,Delhi,Flavour Town,Italian,295,2,2113,3.9,Debit Card,Delivered
+1003,03-01-2023,Chennai,Flavour Town,Chinese,442,1,2254,3.6,Credit Card,Delivered
+1004,04-01-2023,Delhi,Hot Plate,North Indian,581,2,2118,4.8,UPI,Delivered
+1005,05-01-2023,Delhi,Food Factory,Chinese,854,5,2198,3.2,Credit Card,Delivered
+1006,06-01-2023,Bangalore,Food Factory,Chinese,1098,1,2051,4.9,Cash,Delivered
+1007,07-01-2023,Chennai,Flavour Town,Fast Food,734,3,2245,3.6,Debit Card,Delivered
+1008,08-01-2023,Chennai,Hot Plate,Italian,548,4,2035,4.8,Debit Card,Delivered
+1009,09-01-2023,Chennai,Royal Treat,South Indian,966,2,2069,4.2,Credit Card,Delivered
+1010,10-01-2023,Delhi,Food Factory,Italian,1113,1,2049,4.7,Cash,Delivered
+1011,11-01-2023,Mumbai,Royal Treat,Italian,336,5,2074,5,Debit Card,Delivered
+1012,12-01-2023,Chennai,Food Factory,Chinese,210,1,2192,3.6,Cash,Delivered
+1013,13-01-2023,Pune,Food Factory,Italian,1088,5,2261,4.9,Cash,Delivered
+1014,14-01-2023,Delhi,Urban Bites,North Indian,859,3,2070,3.8,Credit Card,Delivered
+1015,15-01-2023,Bangalore,Food Factory,Chinese,956,4,2090,3.8,UPI,Delivered
+1016,16-01-2023,Mumbai,Spice Hub,North Indian,160,3,2260,3.7,Credit Card,Delivered
+1017,17-01-2023,Pune,Hot Plate,South Indian,375,2,2126,4.1,UPI,Delivered
+1018,18-01-2023,Pune,Hot Plate,Chinese,713,1,2231,3.3,Cash,Delivered
+1019,19-01-2023,Bangalore,Royal Treat,South Indian,921,5,2295,4.1,UPI,Delivered
+1020,20-01-2023,Mumbai,Food Factory,Chinese,1034,5,2129,4.1,Cash,Cancelled
+1021,21-01-2023,Delhi,Spice Hub,Fast Food,375,1,2280,4.5,Debit Card,Cancelled
+1022,22-01-2023,Hyderabad,Royal Treat,Italian,974,1,2100,4.7,Debit Card,Delivered
+1023,23-01-2023,Mumbai,Urban Bites,Fast Food,367,2,2297,3.9,Debit Card,Delivered
+1024,24-01-2023,Bangalore,Royal Treat,South Indian,1086,3,2182,3.6,Credit Card,Delivered
+1025,25-01-2023,Pune,Royal Treat,Italian,902,5,2174,3.5,Credit Card,Cancelled
+1026,26-01-2023,Delhi,Food Factory,Chinese,655,2,2188,3.4,Cash,Delivered
+1027,27-01-2023,Mumbai,Urban Bites,Italian,408,3,2057,3.1,Debit Card,Delivered
+1028,28-01-2023,Hyderabad,Royal Treat,North Indian,203,2,2031,3.7,Credit Card,Delivered
+1029,29-01-2023,Hyderabad,Spice Hub,Italian,876,5,2084,3.5,Debit Card,Delivered
+1030,30-01-2023,Chennai,Spice Hub,North Indian,838,1,2152,4.9,Credit Card,Delivered
+1031,31-01-2023,Chennai,Hot Plate,Italian,1193,1,2036,4.1,UPI,Delivered
+1032,01-02-2023,Bangalore,Urban Bites,North Indian,568,3,2213,3.7,UPI,Delivered
+1033,02-02-2023,Mumbai,Urban Bites,South Indian,839,4,2106,4.2,Debit Card,Delivered
+1034,03-02-2023,Mumbai,Hot Plate,Fast Food,999,3,2220,3.3,Cash,Delivered
+1035,04-02-2023,Pune,Royal Treat,Chinese,211,4,2163,3.9,Credit Card,Delivered
+1036,05-02-2023,Pune,Urban Bites,Italian,365,2,2220,4.3,Credit Card,Delivered
+1037,06-02-2023,Pune,Spice Hub,Fast Food,152,2,2270,4,UPI,Delivered
+1038,07-02-2023,Chennai,Spice Hub,Chinese,309,5,2120,3.8,UPI,Delivered
+1039,08-02-2023,Mumbai,Food Factory,Chinese,930,4,2182,5,Cash,Delivered
+1040,09-02-2023,Mumbai,Urban Bites,North Indian,1042,5,2106,4.8,Cash,Delivered
+1041,10-02-2023,Hyderabad,Royal Treat,South Indian,478,1,2217,4.2,Cash,Delivered
+1042,11-02-2023,Chennai,Hot Plate,South Indian,729,4,2205,4.1,Debit Card,Delivered
+1043,12-02-2023,Delhi,Hot Plate,Fast Food,1101,3,2070,4.2,UPI,Delivered
+1044,13-02-2023,Chennai,Royal Treat,South Indian,784,1,2044,3.4,Debit Card,Delivered
+1045,14-02-2023,Delhi,Flavour Town,Italian,1137,1,2228,3.8,UPI,Delivered
+1046,15-02-2023,Hyderabad,Food Factory,South Indian,1070,3,2184,3.1,UPI,Delivered
+1047,16-02-2023,Bangalore,Hot Plate,Fast Food,887,1,2107,4,Credit Card,Delivered
+1048,17-02-2023,Mumbai,Urban Bites,South Indian,319,4,2084,4.1,UPI,Delivered
+1049,18-02-2023,Hyderabad,Food Factory,Italian,670,5,2250,3.5,UPI,Delivered
+1050,19-02-2023,Mumbai,Urban Bites,North Indian,189,1,2021,4.9,Debit Card,Delivered
+1051,20-02-2023,Pune,Spice Hub,Fast Food,1104,4,2196,4.8,UPI,Delivered
+1052,21-02-2023,Bangalore,Food Factory,North Indian,1133,2,2178,4.4,Debit Card,Delivered
+1053,22-02-2023,Bangalore,Hot Plate,North Indian,1124,4,2007,4.1,Cash,Delivered
+1054,23-02-2023,Hyderabad,Food Factory,North Indian,187,5,2070,4.7,UPI,Delivered
+1055,24-02-2023,Bangalore,Food Factory,Chinese,477,4,2127,3.3,UPI,Delivered
+1056,25-02-2023,Delhi,Food Factory,Chinese,1063,3,2160,4.6,Debit Card,Delivered
+1057,26-02-2023,Bangalore,Flavour Town,North Indian,603,5,2248,3.2,Cash,Delivered
+1058,27-02-2023,Mumbai,Food Factory,Fast Food,186,2,2203,4.6,Credit Card,Delivered
+1059,28-02-2023,Mumbai,Urban Bites,Italian,1122,3,2148,3.6,Cash,Delivered
+1060,01-03-2023,Mumbai,Spice Hub,Italian,945,4,2143,4.8,Debit Card,Delivered
+1061,02-03-2023,Mumbai,Royal Treat,South Indian,1122,5,2199,4.9,Cash,Delivered
+1062,03-03-2023,Delhi,Food Factory,Fast Food,742,2,2154,3.3,Debit Card,Delivered
+1063,04-03-2023,Chennai,Hot Plate,Chinese,373,3,2142,3.9,Debit Card,Delivered
+1064,05-03-2023,Pune,Food Factory,North Indian,467,2,2165,5,Credit Card,Delivered
+1065,06-03-2023,Hyderabad,Hot Plate,South Indian,498,4,2021,4,UPI,Delivered
+1066,07-03-2023,Mumbai,Urban Bites,Italian,264,2,2082,4.7,Debit Card,Cancelled
+1067,08-03-2023,Bangalore,Hot Plate,Chinese,847,1,2069,4.2,Debit Card,Delivered
+1068,09-03-2023,Mumbai,Royal Treat,Chinese,189,3,2131,3.8,Credit Card,Delivered
+1069,10-03-2023,Bangalore,Spice Hub,North Indian,365,2,2087,3.6,Debit Card,Delivered
+1070,11-03-2023,Pune,Hot Plate,Italian,485,4,2218,3.4,UPI,Delivered
+1071,12-03-2023,Pune,Hot Plate,Fast Food,241,4,2161,4.5,Credit Card,Delivered
+1072,13-03-2023,Pune,Spice Hub,Chinese,502,2,2178,3.8,UPI,Delivered
+1073,14-03-2023,Bangalore,Royal Treat,North Indian,720,4,2117,4,UPI,Delivered
+1074,15-03-2023,Mumbai,Food Factory,Fast Food,965,5,2196,4,Credit Card,Delivered
+1075,16-03-2023,Pune,Hot Plate,Italian,930,5,2086,4.2,Debit Card,Delivered
+1076,17-03-2023,Delhi,Spice Hub,Chinese,512,5,2289,4.7,UPI,Delivered
+1077,18-03-2023,Bangalore,Urban Bites,Fast Food,706,1,2081,5,UPI,Delivered
+1078,19-03-2023,Bangalore,Spice Hub,Fast Food,505,2,2152,3.8,UPI,Delivered
+1079,20-03-2023,Mumbai,Urban Bites,Fast Food,340,1,2061,4.7,UPI,Delivered
+1080,21-03-2023,Bangalore,Royal Treat,Chinese,571,4,2061,4.5,Credit Card,Delivered
+1081,22-03-2023,Bangalore,Food Factory,Chinese,849,1,2028,4.1,Credit Card,Delivered
+1082,23-03-2023,Pune,Spice Hub,South Indian,156,4,2043,4.9,Cash,Delivered
+1083,24-03-2023,Mumbai,Flavour Town,Italian,282,4,2169,3.4,Cash,Delivered
+1084,25-03-2023,Pune,Hot Plate,North Indian,706,3,2086,3.2,UPI,Delivered
+1085,26-03-2023,Pune,Royal Treat,Fast Food,975,5,2177,4.7,Debit Card,Delivered
+1086,27-03-2023,Mumbai,Spice Hub,South Indian,910,4,2017,3.9,UPI,Delivered
+1087,28-03-2023,Hyderabad,Hot Plate,North Indian,684,3,2098,4.7,Debit Card,Delivered
+1088,29-03-2023,Pune,Spice Hub,South Indian,575,5,2198,4.8,UPI,Delivered
+1089,30-03-2023,Delhi,Urban Bites,Chinese,821,4,2098,3.1,Cash,Delivered
+1090,31-03-2023,Delhi,Spice Hub,Fast Food,512,4,2065,4.8,Cash,Delivered
+1091,01-04-2023,Bangalore,Flavour Town,North Indian,231,1,2005,3.9,Debit Card,Delivered
+1092,02-04-2023,Delhi,Spice Hub,North Indian,505,1,2002,4,UPI,Delivered
+1093,03-04-2023,Bangalore,Spice Hub,North Indian,738,5,2022,4.3,Debit Card,Delivered
+1094,04-04-2023,Hyderabad,Flavour Town,North Indian,444,4,2112,4.9,Cash,Delivered
+1095,05-04-2023,Mumbai,Royal Treat,North Indian,166,2,2057,3,UPI,Delivered
+1096,06-04-2023,Mumbai,Spice Hub,South Indian,509,1,2066,4,UPI,Delivered
+1097,07-04-2023,Mumbai,Flavour Town,Fast Food,1015,5,2098,4.4,Debit Card,Delivered
+1098,08-04-2023,Delhi,Hot Plate,Chinese,849,4,2144,4.4,Credit Card,Delivered
+1099,09-04-2023,Hyderabad,Urban Bites,Chinese,597,4,2125,4.4,Debit Card,Delivered
+1100,10-04-2023,Delhi,Urban Bites,Chinese,1005,2,2167,3.3,Cash,Delivered
+1101,11-04-2023,Delhi,Spice Hub,Chinese,514,5,2086,3.6,Cash,Delivered
+1102,12-04-2023,Hyderabad,Royal Treat,South Indian,824,4,2076,3.7,Cash,Delivered
+1103,13-04-2023,Hyderabad,Royal Treat,Italian,1157,1,2294,4.6,Cash,Delivered
+1104,14-04-2023,Hyderabad,Hot Plate,Fast Food,616,2,2059,3.6,Cash,Delivered
+1105,15-04-2023,Hyderabad,Spice Hub,North Indian,563,5,2138,3.4,Credit Card,Delivered
+1106,16-04-2023,Mumbai,Urban Bites,Italian,735,2,2099,4.9,UPI,Delivered
+1107,17-04-2023,Chennai,Royal Treat,Chinese,1143,1,2192,3,Debit Card,Delivered
+1108,18-04-2023,Chennai,Spice Hub,Italian,721,5,2243,5,Debit Card,Delivered
+1109,19-04-2023,Hyderabad,Royal Treat,Fast Food,484,2,2049,4.4,Cash,Delivered
+1110,20-04-2023,Chennai,Flavour Town,North Indian,186,3,2032,4.7,Debit Card,Delivered
+1111,21-04-2023,Chennai,Royal Treat,North Indian,1138,1,2277,3.6,Cash,Delivered
+1112,22-04-2023,Hyderabad,Urban Bites,Fast Food,427,1,2020,3,Credit Card,Delivered
+1113,23-04-2023,Chennai,Food Factory,Fast Food,1065,1,2154,4.5,Credit Card,Delivered
+1114,24-04-2023,Delhi,Hot Plate,Chinese,633,3,2068,4.7,UPI,Delivered
+1115,25-04-2023,Bangalore,Hot Plate,North Indian,880,3,2214,4.5,Credit Card,Delivered
+1116,26-04-2023,Bangalore,Urban Bites,Italian,341,4,2143,3.3,Credit Card,Delivered
+1117,27-04-2023,Hyderabad,Royal Treat,South Indian,1190,2,2232,4.5,UPI,Cancelled
+1118,28-04-2023,Mumbai,Spice Hub,South Indian,673,4,2213,4.5,Debit Card,Delivered
+1119,29-04-2023,Hyderabad,Royal Treat,Fast Food,1067,2,2079,4.3,Cash,Delivered
+1120,30-04-2023,Mumbai,Urban Bites,Chinese,550,3,2214,4.5,Cash,Delivered
+1121,01-05-2023,Bangalore,Hot Plate,South Indian,1035,3,2116,4.7,Debit Card,Delivered
+1122,02-05-2023,Hyderabad,Royal Treat,North Indian,854,4,2092,4.2,UPI,Delivered
+1123,03-05-2023,Pune,Hot Plate,Fast Food,171,5,2270,3.2,Debit Card,Cancelled
+1124,04-05-2023,Delhi,Spice Hub,Italian,623,4,2168,4,Credit Card,Delivered
+1125,05-05-2023,Chennai,Hot Plate,Fast Food,359,2,2058,3.2,UPI,Delivered
+1126,06-05-2023,Mumbai,Hot Plate,Italian,455,4,2284,3.8,UPI,Delivered
+1127,07-05-2023,Pune,Food Factory,Fast Food,853,1,2026,3.8,UPI,Delivered
+1128,08-05-2023,Chennai,Food Factory,Fast Food,836,2,2066,3.1,Cash,Delivered
+1129,09-05-2023,Chennai,Flavour Town,Fast Food,434,2,2248,3.7,Debit Card,Delivered
+1130,10-05-2023,Hyderabad,Food Factory,Italian,865,5,2254,3.2,UPI,Cancelled
+1131,11-05-2023,Chennai,Hot Plate,Italian,912,3,2044,4.6,UPI,Delivered
+1132,12-05-2023,Delhi,Urban Bites,Fast Food,1097,2,2097,4.9,UPI,Delivered
+1133,13-05-2023,Pune,Hot Plate,South Indian,530,3,2042,3.1,Debit Card,Delivered
+1134,14-05-2023,Chennai,Urban Bites,Chinese,609,4,2227,4.9,Cash,Delivered
+1135,15-05-2023,Hyderabad,Urban Bites,Chinese,1180,1,2262,4,Credit Card,Delivered
+1136,16-05-2023,Delhi,Food Factory,Chinese,178,5,2167,3.6,Cash,Delivered
+1137,17-05-2023,Bangalore,Royal Treat,Italian,1056,3,2279,3.2,UPI,Delivered
+1138,18-05-2023,Pune,Spice Hub,Italian,1028,2,2089,4,Cash,Delivered
+1139,19-05-2023,Chennai,Food Factory,South Indian,228,3,2178,4.6,Cash,Delivered
+1140,20-05-2023,Hyderabad,Food Factory,Chinese,1096,2,2197,4.4,Credit Card,Delivered
+1141,21-05-2023,Bangalore,Royal Treat,Chinese,608,3,2267,3.1,Debit Card,Delivered
+1142,22-05-2023,Bangalore,Spice Hub,Fast Food,719,2,2268,3.1,Debit Card,Delivered
+1143,23-05-2023,Mumbai,Hot Plate,Italian,887,4,2074,3.8,Cash,Delivered
+1144,24-05-2023,Delhi,Flavour Town,Chinese,665,2,2008,3.6,Cash,Delivered
+1145,25-05-2023,Chennai,Flavour Town,South Indian,546,2,2297,3.5,Debit Card,Delivered
+1146,26-05-2023,Hyderabad,Hot Plate,South Indian,188,1,2164,3.6,Debit Card,Delivered
+1147,27-05-2023,Mumbai,Food Factory,Chinese,1036,2,2085,4.6,Credit Card,Delivered
+1148,28-05-2023,Delhi,Spice Hub,Italian,946,1,2072,4.9,UPI,Delivered
+1149,29-05-2023,Mumbai,Food Factory,South Indian,306,5,2055,3.8,Cash,Delivered
+1150,30-05-2023,Pune,Urban Bites,Fast Food,1033,1,2047,4.8,Debit Card,Delivered
+1151,31-05-2023,Delhi,Food Factory,South Indian,1123,4,2238,3.6,Cash,Delivered
+1152,01-06-2023,Delhi,Food Factory,North Indian,1195,1,2104,4,Cash,Delivered
+1153,02-06-2023,Chennai,Hot Plate,North Indian,998,5,2210,3.5,Debit Card,Delivered
+1154,03-06-2023,Delhi,Hot Plate,Italian,897,4,2042,4.3,Credit Card,Delivered
+1155,04-06-2023,Mumbai,Hot Plate,Chinese,1138,3,2268,5,Cash,Delivered
+1156,05-06-2023,Delhi,Flavour Town,Italian,170,3,2263,4.2,Credit Card,Delivered
+1157,06-06-2023,Chennai,Urban Bites,Italian,452,1,2259,3.7,Debit Card,Delivered
+1158,07-06-2023,Chennai,Hot Plate,Italian,1018,1,2283,4.3,UPI,Delivered
+1159,08-06-2023,Pune,Spice Hub,Italian,233,5,2114,3.2,UPI,Delivered
+1160,09-06-2023,Mumbai,Flavour Town,Fast Food,719,5,2040,4.8,Cash,Delivered
+1161,10-06-2023,Bangalore,Royal Treat,Fast Food,1083,2,2220,4,Debit Card,Delivered
+1162,11-06-2023,Bangalore,Spice Hub,South Indian,1158,5,2129,3.9,Credit Card,Delivered
+1163,12-06-2023,Delhi,Spice Hub,North Indian,942,2,2008,4.2,Cash,Delivered
+1164,13-06-2023,Pune,Hot Plate,Italian,941,4,2101,4.2,Debit Card,Delivered
+1165,14-06-2023,Hyderabad,Royal Treat,South Indian,641,1,2176,3.1,Debit Card,Cancelled
+1166,15-06-2023,Delhi,Royal Treat,North Indian,357,4,2107,4.4,Credit Card,Delivered
+1167,16-06-2023,Pune,Flavour Town,Chinese,579,5,2101,3.5,Cash,Delivered
+1168,17-06-2023,Mumbai,Royal Treat,Fast Food,1134,4,2260,4.4,Debit Card,Delivered
+1169,18-06-2023,Mumbai,Urban Bites,North Indian,669,4,2246,4.6,Debit Card,Delivered
+1170,19-06-2023,Mumbai,Hot Plate,Chinese,740,4,2275,4.6,Debit Card,Delivered
+1171,20-06-2023,Mumbai,Royal Treat,North Indian,348,5,2032,4.1,Credit Card,Delivered
+1172,21-06-2023,Mumbai,Flavour Town,Fast Food,536,4,2137,4,Cash,Delivered
+1173,22-06-2023,Pune,Urban Bites,Fast Food,498,2,2012,3.3,Cash,Delivered
+1174,23-06-2023,Pune,Food Factory,South Indian,1109,5,2016,4.6,Cash,Delivered
+1175,24-06-2023,Chennai,Food Factory,Italian,842,4,2129,3.5,Cash,Delivered
+1176,25-06-2023,Bangalore,Urban Bites,North Indian,527,5,2063,4,UPI,Delivered
+1177,26-06-2023,Mumbai,Flavour Town,North Indian,1048,3,2109,3.6,UPI,Delivered
+1178,27-06-2023,Hyderabad,Urban Bites,Chinese,1065,2,2021,3.3,Cash,Delivered
+1179,28-06-2023,Pune,Hot Plate,Fast Food,676,4,2158,4.3,Credit Card,Delivered
+1180,29-06-2023,Hyderabad,Hot Plate,North Indian,883,3,2269,3.1,UPI,Delivered
+1181,30-06-2023,Hyderabad,Food Factory,Fast Food,355,3,2162,4.5,Debit Card,Cancelled
+1182,01-07-2023,Hyderabad,Royal Treat,North Indian,604,5,2260,3.6,UPI,Delivered
+1183,02-07-2023,Chennai,Flavour Town,South Indian,670,3,2102,3,Debit Card,Delivered
+1184,03-07-2023,Pune,Food Factory,Italian,1166,2,2223,4,Cash,Delivered
+1185,04-07-2023,Hyderabad,Royal Treat,North Indian,1105,2,2059,3.1,UPI,Delivered
+1186,05-07-2023,Mumbai,Royal Treat,Fast Food,875,1,2247,3.6,Credit Card,Delivered
+1187,06-07-2023,Delhi,Hot Plate,South Indian,1163,2,2128,4.4,UPI,Delivered
+1188,07-07-2023,Hyderabad,Spice Hub,North Indian,650,3,2283,3.1,UPI,Delivered
+1189,08-07-2023,Chennai,Spice Hub,Chinese,266,2,2025,4.7,UPI,Delivered
+1190,09-07-2023,Pune,Urban Bites,Italian,535,5,2131,3,Cash,Delivered
+1191,10-07-2023,Chennai,Hot Plate,North Indian,733,1,2196,3.5,Credit Card,Delivered
+1192,11-07-2023,Hyderabad,Royal Treat,South Indian,544,3,2281,4.5,UPI,Delivered
+1193,12-07-2023,Pune,Flavour Town,Chinese,870,1,2154,3.6,Credit Card,Cancelled
+1194,13-07-2023,Delhi,Spice Hub,South Indian,221,3,2133,3.2,Cash,Delivered
+1195,14-07-2023,Hyderabad,Royal Treat,South Indian,423,5,2227,3.7,Debit Card,Delivered
+1196,15-07-2023,Chennai,Spice Hub,Chinese,487,1,2189,3.5,UPI,Delivered
+1197,16-07-2023,Bangalore,Spice Hub,South Indian,756,4,2265,4.7,Credit Card,Delivered
+1198,17-07-2023,Mumbai,Spice Hub,Chinese,315,3,2134,3.6,Credit Card,Delivered
+1199,18-07-2023,Chennai,Flavour Town,North Indian,160,4,2211,4.6,Cash,Delivered
+1200,19-07-2023,Pune,Hot Plate,Chinese,878,1,2060,4.8,UPI,Delivered
+1201,20-07-2023,Hyderabad,Flavour Town,Chinese,950,4,2213,3.9,Debit Card,Delivered
+1202,21-07-2023,Mumbai,Food Factory,Italian,251,4,2216,4.8,Credit Card,Delivered
+1203,22-07-2023,Hyderabad,Royal Treat,Chinese,928,1,2226,3.8,UPI,Delivered
+1204,23-07-2023,Pune,Hot Plate,Chinese,363,5,2131,4.9,Debit Card,Delivered
+1205,24-07-2023,Hyderabad,Hot Plate,North Indian,550,4,2076,3.2,Credit Card,Delivered
+1206,25-07-2023,Bangalore,Hot Plate,Italian,737,4,2286,4.4,Credit Card,Delivered
+1207,26-07-2023,Mumbai,Hot Plate,Fast Food,1038,5,2277,4,Debit Card,Delivered
+1208,27-07-2023,Mumbai,Flavour Town,North Indian,741,4,2156,3.8,Debit Card,Delivered
+1209,28-07-2023,Pune,Hot Plate,North Indian,241,4,2248,4.3,Cash,Delivered
+1210,29-07-2023,Bangalore,Urban Bites,Fast Food,822,4,2218,4.4,UPI,Delivered
+1211,30-07-2023,Chennai,Royal Treat,Chinese,863,2,2190,3,UPI,Delivered
+1212,31-07-2023,Hyderabad,Hot Plate,South Indian,1085,5,2163,3.3,Cash,Delivered
+1213,01-08-2023,Delhi,Royal Treat,Italian,391,4,2180,4.4,Credit Card,Delivered
+1214,02-08-2023,Hyderabad,Urban Bites,South Indian,151,5,2034,4.3,Debit Card,Delivered
+1215,03-08-2023,Hyderabad,Urban Bites,Fast Food,374,3,2041,4.9,Debit Card,Delivered
+1216,04-08-2023,Chennai,Royal Treat,North Indian,950,3,2075,4.5,Debit Card,Delivered
+1217,05-08-2023,Hyderabad,Spice Hub,North Indian,738,4,2279,4.9,Credit Card,Delivered
+1218,06-08-2023,Bangalore,Food Factory,Italian,265,5,2176,4.4,Debit Card,Delivered
+1219,07-08-2023,Bangalore,Spice Hub,North Indian,1067,5,2150,3.6,Debit Card,Delivered
+1220,08-08-2023,Mumbai,Spice Hub,North Indian,343,5,2273,3.2,Cash,Delivered
+1221,09-08-2023,Pune,Flavour Town,Italian,1020,2,2108,4.6,Credit Card,Delivered
+1222,10-08-2023,Delhi,Spice Hub,Italian,239,3,2139,4.3,UPI,Delivered
+1223,11-08-2023,Hyderabad,Hot Plate,Fast Food,271,5,2271,3.1,Cash,Cancelled
+1224,12-08-2023,Hyderabad,Flavour Town,North Indian,292,5,2289,3.7,Cash,Cancelled
+1225,13-08-2023,Chennai,Flavour Town,North Indian,1143,2,2212,4.9,UPI,Delivered
+1226,14-08-2023,Pune,Urban Bites,Fast Food,255,2,2272,4,Cash,Delivered
+1227,15-08-2023,Bangalore,Spice Hub,Chinese,1036,5,2066,3.9,Credit Card,Delivered
+1228,16-08-2023,Delhi,Urban Bites,Chinese,577,1,2248,3.9,Debit Card,Delivered
+1229,17-08-2023,Mumbai,Royal Treat,Chinese,466,5,2156,3.4,Credit Card,Delivered
+1230,18-08-2023,Bangalore,Food Factory,Fast Food,784,5,2047,3.7,UPI,Delivered
+1231,19-08-2023,Pune,Flavour Town,North Indian,158,2,2201,3.7,UPI,Cancelled
+1232,20-08-2023,Mumbai,Royal Treat,Fast Food,923,2,2148,3.1,Cash,Delivered
+1233,21-08-2023,Chennai,Royal Treat,Fast Food,372,5,2124,4.5,Credit Card,Delivered
+1234,22-08-2023,Chennai,Hot Plate,Chinese,702,5,2001,3.8,Credit Card,Delivered
+1235,23-08-2023,Hyderabad,Food Factory,South Indian,865,5,2247,4.6,UPI,Delivered
+1236,24-08-2023,Pune,Royal Treat,North Indian,260,2,2128,4.7,Credit Card,Cancelled
+1237,25-08-2023,Delhi,Royal Treat,Chinese,400,5,2191,3.4,UPI,Delivered
+1238,26-08-2023,Mumbai,Food Factory,South Indian,532,5,2067,4.3,Credit Card,Delivered
+1239,27-08-2023,Bangalore,Food Factory,South Indian,156,4,2004,3.9,Credit Card,Delivered
+1240,28-08-2023,Pune,Royal Treat,Italian,608,1,2294,4.8,Credit Card,Delivered
+1241,29-08-2023,Pune,Food Factory,North Indian,357,3,2143,3.4,UPI,Delivered
+1242,30-08-2023,Chennai,Royal Treat,South Indian,1049,1,2191,4.4,Cash,Delivered
+1243,31-08-2023,Hyderabad,Royal Treat,Chinese,171,4,2021,4.2,Credit Card,Delivered
+1244,01-09-2023,Hyderabad,Hot Plate,Italian,559,3,2227,3.6,UPI,Delivered
+1245,02-09-2023,Mumbai,Spice Hub,North Indian,1044,5,2117,3.3,UPI,Delivered
+1246,03-09-2023,Chennai,Royal Treat,Fast Food,664,4,2142,4.3,Credit Card,Delivered
+1247,04-09-2023,Pune,Urban Bites,Chinese,958,5,2039,4.5,Credit Card,Delivered
+1248,05-09-2023,Delhi,Flavour Town,South Indian,1023,2,2252,3.6,Cash,Delivered
+1249,06-09-2023,Chennai,Spice Hub,South Indian,163,4,2207,4.3,UPI,Delivered
+1250,07-09-2023,Mumbai,Spice Hub,Chinese,1120,2,2210,3.8,UPI,Delivered
+1251,08-09-2023,Mumbai,Spice Hub,South Indian,1127,4,2115,4.4,Debit Card,Delivered
+1252,09-09-2023,Chennai,Hot Plate,Italian,1163,4,2225,3.4,UPI,Delivered
+1253,10-09-2023,Mumbai,Royal Treat,North Indian,1185,2,2134,4.8,Cash,Delivered
+1254,11-09-2023,Chennai,Hot Plate,Italian,236,3,2251,3.6,Debit Card,Delivered
+1255,12-09-2023,Bangalore,Royal Treat,South Indian,1058,1,2219,3.7,Debit Card,Delivered
+1256,13-09-2023,Chennai,Hot Plate,Fast Food,271,5,2091,3.1,Debit Card,Delivered
+1257,14-09-2023,Chennai,Hot Plate,North Indian,899,4,2046,3.2,Credit Card,Delivered
+1258,15-09-2023,Mumbai,Flavour Town,North Indian,834,5,2038,4,Credit Card,Delivered
+1259,16-09-2023,Mumbai,Urban Bites,Chinese,458,2,2142,3.5,UPI,Delivered
+1260,17-09-2023,Hyderabad,Hot Plate,Chinese,844,5,2100,4.7,Debit Card,Cancelled
+1261,18-09-2023,Hyderabad,Flavour Town,Fast Food,437,2,2190,3,Cash,Delivered
+1262,19-09-2023,Bangalore,Food Factory,North Indian,456,5,2035,3.8,Credit Card,Delivered
+1263,20-09-2023,Hyderabad,Urban Bites,Fast Food,1063,1,2147,3.7,Cash,Delivered
+1264,21-09-2023,Chennai,Hot Plate,Chinese,811,1,2030,3,Cash,Delivered
+1265,22-09-2023,Mumbai,Spice Hub,Chinese,698,1,2084,3.2,Credit Card,Delivered
+1266,23-09-2023,Hyderabad,Food Factory,North Indian,461,1,2281,3.8,Credit Card,Delivered
+1267,24-09-2023,Hyderabad,Food Factory,Italian,1022,1,2270,4,Credit Card,Cancelled
+1268,25-09-2023,Bangalore,Flavour Town,South Indian,1073,1,2154,3.8,Credit Card,Cancelled
+1269,26-09-2023,Pune,Food Factory,Chinese,904,2,2102,4.1,Debit Card,Delivered
+1270,27-09-2023,Bangalore,Urban Bites,Chinese,184,4,2215,4.2,Debit Card,Delivered
+1271,28-09-2023,Chennai,Hot Plate,Italian,594,5,2150,3,Debit Card,Delivered
+1272,29-09-2023,Mumbai,Hot Plate,Italian,242,1,2083,3.9,Debit Card,Cancelled
+1273,30-09-2023,Bangalore,Spice Hub,Fast Food,502,2,2110,4.9,UPI,Cancelled
+1274,01-10-2023,Hyderabad,Flavour Town,Fast Food,1052,2,2275,4,Debit Card,Delivered
+1275,02-10-2023,Mumbai,Spice Hub,South Indian,1011,2,2201,4.4,Credit Card,Delivered
+1276,03-10-2023,Mumbai,Food Factory,South Indian,308,4,2284,3.6,Cash,Delivered
+1277,04-10-2023,Hyderabad,Spice Hub,North Indian,1106,5,2173,4.5,Debit Card,Delivered
+1278,05-10-2023,Bangalore,Urban Bites,Fast Food,173,4,2206,4.5,UPI,Delivered
+1279,06-10-2023,Hyderabad,Hot Plate,Chinese,553,3,2063,4,Credit Card,Delivered
+1280,07-10-2023,Pune,Food Factory,Fast Food,954,2,2073,5,Cash,Delivered
+1281,08-10-2023,Mumbai,Spice Hub,Chinese,665,3,2251,3.3,Cash,Delivered
+1282,09-10-2023,Delhi,Flavour Town,Italian,881,1,2124,3,Debit Card,Delivered
+1283,10-10-2023,Delhi,Urban Bites,Fast Food,681,1,2121,4.5,Cash,Cancelled
+1284,11-10-2023,Chennai,Urban Bites,Italian,1105,4,2275,4.6,Debit Card,Delivered
+1285,12-10-2023,Hyderabad,Spice Hub,South Indian,301,5,2120,3.2,Debit Card,Delivered
+1286,13-10-2023,Hyderabad,Hot Plate,South Indian,1096,3,2164,3.5,Credit Card,Delivered
+1287,14-10-2023,Chennai,Spice Hub,North Indian,757,5,2286,3,Credit Card,Delivered
+1288,15-10-2023,Chennai,Food Factory,Fast Food,569,4,2265,3.6,UPI,Delivered
+1289,16-10-2023,Chennai,Spice Hub,Italian,1015,1,2161,4.5,Credit Card,Delivered
+1290,17-10-2023,Mumbai,Urban Bites,Chinese,727,5,2089,4,Credit Card,Delivered
+1291,18-10-2023,Pune,Spice Hub,South Indian,484,5,2142,3.7,Debit Card,Delivered
+1292,19-10-2023,Hyderabad,Hot Plate,South Indian,1081,1,2203,3.7,Credit Card,Delivered
+1293,20-10-2023,Mumbai,Flavour Town,Chinese,444,3,2227,3,Debit Card,Delivered
+1294,21-10-2023,Chennai,Royal Treat,Italian,904,1,2222,3.6,Debit Card,Delivered
+1295,22-10-2023,Hyderabad,Spice Hub,Italian,335,5,2041,4.3,Credit Card,Delivered
+1296,23-10-2023,Mumbai,Hot Plate,Fast Food,786,3,2196,4.9,UPI,Delivered
+1297,24-10-2023,Pune,Hot Plate,Fast Food,679,3,2068,4.7,UPI,Delivered
+1298,25-10-2023,Mumbai,Flavour Town,North Indian,170,1,2264,3,Cash,Delivered
+1299,26-10-2023,Pune,Urban Bites,South Indian,1060,5,2002,4.8,Cash,Delivered
+1300,27-10-2023,Chennai,Hot Plate,Fast Food,1016,4,2125,4.6,Credit Card,Delivered
+1301,28-10-2023,Pune,Hot Plate,Italian,943,5,2110,4.6,UPI,Delivered
+1302,29-10-2023,Hyderabad,Hot Plate,Chinese,249,2,2086,3.9,Debit Card,Delivered
+1303,30-10-2023,Chennai,Hot Plate,Italian,901,4,2120,3.8,Cash,Delivered
+1304,31-10-2023,Hyderabad,Food Factory,South Indian,627,3,2127,3.6,Debit Card,Delivered
+1305,01-11-2023,Delhi,Food Factory,Italian,1089,4,2255,3.1,Cash,Cancelled
+1306,02-11-2023,Bangalore,Urban Bites,North Indian,675,3,2183,3.5,Credit Card,Delivered
+1307,03-11-2023,Pune,Spice Hub,South Indian,483,3,2016,3.5,UPI,Delivered
+1308,04-11-2023,Bangalore,Hot Plate,Chinese,151,4,2062,4,Cash,Delivered
+1309,05-11-2023,Bangalore,Flavour Town,North Indian,524,3,2158,4.5,UPI,Delivered
+1310,06-11-2023,Pune,Spice Hub,South Indian,442,3,2268,3.9,Debit Card,Delivered
+1311,07-11-2023,Chennai,Flavour Town,Chinese,986,2,2035,3.1,Credit Card,Delivered
+1312,08-11-2023,Delhi,Spice Hub,North Indian,1154,5,2267,4.9,UPI,Cancelled
+1313,09-11-2023,Hyderabad,Urban Bites,North Indian,702,5,2064,4.9,Credit Card,Delivered
+1314,10-11-2023,Mumbai,Hot Plate,South Indian,467,2,2050,4.6,UPI,Delivered
+1315,11-11-2023,Hyderabad,Hot Plate,Fast Food,530,4,2255,5,Debit Card,Delivered
+1316,12-11-2023,Mumbai,Royal Treat,North Indian,163,1,2149,4.1,Debit Card,Delivered
+1317,13-11-2023,Hyderabad,Flavour Town,North Indian,653,1,2276,4.9,Credit Card,Delivered
+1318,14-11-2023,Pune,Spice Hub,Chinese,380,1,2172,3.2,Debit Card,Delivered
+1319,15-11-2023,Delhi,Spice Hub,Italian,279,2,2201,3.7,Cash,Delivered
+1320,16-11-2023,Mumbai,Food Factory,South Indian,987,2,2035,3.5,UPI,Delivered
+1321,17-11-2023,Chennai,Royal Treat,South Indian,1040,3,2216,3.4,Debit Card,Delivered
+1322,18-11-2023,Hyderabad,Food Factory,Fast Food,177,1,2065,3.3,Cash,Delivered
+1323,19-11-2023,Hyderabad,Food Factory,Fast Food,215,4,2008,4.2,Credit Card,Delivered
+1324,20-11-2023,Mumbai,Food Factory,South Indian,410,4,2076,4.6,Cash,Delivered
+1325,21-11-2023,Chennai,Flavour Town,Fast Food,609,1,2174,4.2,Credit Card,Delivered
+1326,22-11-2023,Chennai,Flavour Town,Chinese,450,1,2047,3.3,Credit Card,Delivered
+1327,23-11-2023,Pune,Urban Bites,South Indian,1068,1,2015,4.6,UPI,Delivered
+1328,24-11-2023,Pune,Urban Bites,Fast Food,436,2,2147,4.3,UPI,Delivered
+1329,25-11-2023,Pune,Food Factory,South Indian,1183,2,2026,3.8,Cash,Delivered
+1330,26-11-2023,Pune,Royal Treat,Italian,779,2,2093,4.3,UPI,Delivered
+1331,27-11-2023,Pune,Spice Hub,North Indian,419,5,2232,3.5,UPI,Cancelled
+1332,28-11-2023,Pune,Flavour Town,South Indian,741,4,2021,3.7,UPI,Delivered
+1333,29-11-2023,Delhi,Royal Treat,North Indian,993,4,2038,4.8,Cash,Delivered
+1334,30-11-2023,Chennai,Hot Plate,Fast Food,1011,3,2276,3.6,Debit Card,Delivered
+1335,01-12-2023,Pune,Flavour Town,North Indian,282,2,2157,3.9,UPI,Cancelled
+1336,02-12-2023,Chennai,Flavour Town,South Indian,1121,5,2179,4.8,UPI,Delivered
+1337,03-12-2023,Chennai,Urban Bites,Italian,662,5,2132,4.4,Cash,Delivered
+1338,04-12-2023,Bangalore,Spice Hub,Fast Food,462,4,2028,3.1,Debit Card,Delivered
+1339,05-12-2023,Delhi,Spice Hub,South Indian,725,2,2260,3.3,UPI,Delivered
+1340,06-12-2023,Pune,Hot Plate,Fast Food,1035,3,2076,3,Credit Card,Delivered
+1341,07-12-2023,Hyderabad,Hot Plate,Chinese,836,2,2067,4.3,Cash,Cancelled
+1342,08-12-2023,Mumbai,Flavour Town,North Indian,314,1,2194,3.9,UPI,Delivered
+1343,09-12-2023,Hyderabad,Food Factory,Chinese,454,2,2162,3.3,UPI,Delivered
+1344,10-12-2023,Delhi,Urban Bites,South Indian,305,1,2257,4.9,Credit Card,Cancelled
+1345,11-12-2023,Mumbai,Urban Bites,Italian,769,1,2072,4.1,Credit Card,Delivered
+1346,12-12-2023,Delhi,Flavour Town,Fast Food,1106,3,2087,3.5,Cash,Delivered
+1347,13-12-2023,Chennai,Royal Treat,North Indian,483,4,2262,4,Cash,Delivered
+1348,14-12-2023,Mumbai,Food Factory,Fast Food,1118,2,2214,4.4,Credit Card,Delivered
+1349,15-12-2023,Chennai,Flavour Town,South Indian,660,1,2153,3.2,Cash,Delivered
+1350,16-12-2023,Hyderabad,Food Factory,Fast Food,1193,2,2210,3.5,Credit Card,Delivered
+1351,17-12-2023,Hyderabad,Food Factory,North Indian,431,4,2061,4.6,UPI,Delivered
+1352,18-12-2023,Mumbai,Food Factory,South Indian,946,4,2268,3.9,Credit Card,Delivered
+1353,19-12-2023,Mumbai,Flavour Town,Fast Food,1174,5,2262,4.1,Credit Card,Delivered
+1354,20-12-2023,Pune,Urban Bites,Italian,268,4,2218,3.9,Debit Card,Delivered
+1355,21-12-2023,Delhi,Urban Bites,South Indian,347,3,2283,3.1,Credit Card,Cancelled
+1356,22-12-2023,Pune,Food Factory,South Indian,634,1,2136,3.3,Credit Card,Delivered
+1357,23-12-2023,Delhi,Royal Treat,Italian,986,5,2093,3.9,Debit Card,Cancelled
+1358,24-12-2023,Pune,Spice Hub,Chinese,1158,3,2109,3.4,Cash,Delivered
+1359,25-12-2023,Chennai,Flavour Town,North Indian,840,2,2241,3.1,Debit Card,Delivered
+1360,26-12-2023,Mumbai,Spice Hub,Chinese,1185,1,2142,4.7,UPI,Delivered
+1361,27-12-2023,Hyderabad,Royal Treat,Fast Food,639,4,2291,5,Debit Card,Delivered
+1362,28-12-2023,Delhi,Flavour Town,Italian,425,1,2237,4.6,UPI,Delivered
+1363,29-12-2023,Delhi,Food Factory,Chinese,842,2,2177,4.7,Cash,Delivered
+1364,30-12-2023,Hyderabad,Urban Bites,South Indian,391,5,2141,3.5,Debit Card,Delivered
+1365,31-12-2023,Pune,Spice Hub,Fast Food,275,5,2189,4.9,Debit Card,Delivered
+1366,01-01-2024,Delhi,Hot Plate,Fast Food,366,5,2049,3.4,Cash,Delivered
+1367,02-01-2024,Chennai,Hot Plate,Chinese,644,4,2190,4.9,UPI,Delivered
+1368,03-01-2024,Mumbai,Royal Treat,Chinese,576,3,2136,5,Debit Card,Delivered
+1369,04-01-2024,Hyderabad,Food Factory,Italian,1068,3,2043,4.4,UPI,Delivered
+1370,05-01-2024,Mumbai,Spice Hub,North Indian,300,1,2090,5,Debit Card,Delivered
+1371,06-01-2024,Delhi,Food Factory,Chinese,533,4,2295,4.1,Credit Card,Delivered
+1372,07-01-2024,Delhi,Spice Hub,Chinese,457,5,2245,3.5,Debit Card,Delivered
+1373,08-01-2024,Hyderabad,Royal Treat,South Indian,895,5,2192,3.9,Cash,Delivered
+1374,09-01-2024,Chennai,Royal Treat,Fast Food,1041,2,2106,4.2,Cash,Delivered
+1375,10-01-2024,Bangalore,Hot Plate,North Indian,524,2,2233,3.1,UPI,Delivered
+1376,11-01-2024,Hyderabad,Food Factory,South Indian,1181,5,2265,4.2,Debit Card,Delivered
+1377,12-01-2024,Bangalore,Flavour Town,Italian,278,5,2037,5,UPI,Delivered
+1378,13-01-2024,Pune,Hot Plate,Italian,1164,4,2041,3.4,UPI,Delivered
+1379,14-01-2024,Bangalore,Food Factory,Chinese,818,3,2017,4.6,Credit Card,Delivered
+1380,15-01-2024,Chennai,Hot Plate,Chinese,666,2,2277,4.8,Credit Card,Delivered
+1381,16-01-2024,Pune,Flavour Town,Italian,235,3,2059,4.9,Cash,Delivered
+1382,17-01-2024,Bangalore,Urban Bites,Chinese,460,4,2183,4.9,UPI,Delivered
+1383,18-01-2024,Pune,Urban Bites,North Indian,576,5,2041,4,Cash,Delivered
+1384,19-01-2024,Bangalore,Urban Bites,Chinese,263,3,2039,5,Debit Card,Delivered
+1385,20-01-2024,Chennai,Urban Bites,Fast Food,452,5,2192,4.5,UPI,Delivered
+1386,21-01-2024,Bangalore,Spice Hub,Chinese,893,5,2267,3.3,UPI,Delivered
+1387,22-01-2024,Bangalore,Urban Bites,South Indian,737,1,2147,4,Debit Card,Delivered
+1388,23-01-2024,Bangalore,Flavour Town,North Indian,1136,3,2127,4.4,Debit Card,Delivered
+1389,24-01-2024,Hyderabad,Royal Treat,South Indian,494,3,2046,3.5,Cash,Delivered
+1390,25-01-2024,Hyderabad,Royal Treat,South Indian,963,5,2045,4.3,Cash,Delivered
+1391,26-01-2024,Hyderabad,Spice Hub,Fast Food,950,4,2001,4.3,Debit Card,Delivered
+1392,27-01-2024,Chennai,Urban Bites,North Indian,1174,1,2168,3.3,Cash,Delivered
+1393,28-01-2024,Pune,Urban Bites,North Indian,510,5,2108,4.1,Debit Card,Delivered
+1394,29-01-2024,Delhi,Urban Bites,North Indian,1159,2,2019,4.5,UPI,Delivered
+1395,30-01-2024,Bangalore,Hot Plate,North Indian,853,2,2072,4,UPI,Delivered
+1396,31-01-2024,Bangalore,Food Factory,North Indian,724,1,2109,3,Credit Card,Delivered
+1397,01-02-2024,Chennai,Hot Plate,Fast Food,837,4,2268,3,UPI,Delivered
+1398,02-02-2024,Bangalore,Food Factory,Chinese,930,5,2240,3.7,Debit Card,Delivered
+1399,03-02-2024,Hyderabad,Urban Bites,South Indian,734,3,2090,4.9,Cash,Delivered
+1400,04-02-2024,Delhi,Urban Bites,North Indian,738,1,2103,3.5,Credit Card,Delivered
+1401,05-02-2024,Mumbai,Hot Plate,Chinese,638,4,2250,4.3,Cash,Delivered
+1402,06-02-2024,Bangalore,Hot Plate,Chinese,1120,3,2008,3.4,Debit Card,Cancelled
+1403,07-02-2024,Hyderabad,Food Factory,South Indian,643,2,2153,3.6,UPI,Delivered
+1404,08-02-2024,Mumbai,Royal Treat,Fast Food,168,2,2174,4.7,Credit Card,Delivered
+1405,09-02-2024,Delhi,Food Factory,Italian,546,3,2158,4.5,Debit Card,Delivered
+1406,10-02-2024,Mumbai,Hot Plate,Italian,1150,1,2215,3.2,Credit Card,Delivered
+1407,11-02-2024,Hyderabad,Flavour Town,Chinese,1000,2,2177,3.9,Credit Card,Delivered
+1408,12-02-2024,Pune,Hot Plate,South Indian,971,5,2175,3.1,UPI,Delivered
+1409,13-02-2024,Pune,Flavour Town,Italian,604,3,2146,4,Debit Card,Delivered
+1410,14-02-2024,Mumbai,Spice Hub,Chinese,874,3,2161,4.3,Cash,Delivered
+1411,15-02-2024,Chennai,Hot Plate,Fast Food,860,2,2127,3.2,Credit Card,Delivered
+1412,16-02-2024,Mumbai,Spice Hub,Italian,292,1,2082,3.6,Credit Card,Delivered
+1413,17-02-2024,Bangalore,Royal Treat,Chinese,1066,5,2147,3.8,Cash,Delivered
+1414,18-02-2024,Bangalore,Food Factory,Chinese,977,1,2239,4.8,Debit Card,Delivered
+1415,19-02-2024,Pune,Flavour Town,North Indian,754,4,2084,5,Credit Card,Delivered
+1416,20-02-2024,Chennai,Food Factory,Fast Food,454,4,2113,3.1,Credit Card,Delivered
+1417,21-02-2024,Hyderabad,Spice Hub,North Indian,885,2,2225,4.5,Credit Card,Delivered
+1418,22-02-2024,Bangalore,Flavour Town,South Indian,440,2,2243,3.7,Debit Card,Delivered
+1419,23-02-2024,Pune,Food Factory,North Indian,251,2,2143,3.8,Debit Card,Cancelled
+1420,24-02-2024,Delhi,Hot Plate,North Indian,1016,4,2041,4.5,Cash,Delivered
+1421,25-02-2024,Pune,Urban Bites,Italian,1117,1,2258,4.8,Debit Card,Delivered
+1422,26-02-2024,Bangalore,Spice Hub,Chinese,1123,1,2285,4.9,Debit Card,Delivered
+1423,27-02-2024,Bangalore,Food Factory,Fast Food,991,2,2105,4.2,UPI,Delivered
+1424,28-02-2024,Pune,Spice Hub,North Indian,1111,5,2202,3.7,Cash,Delivered
+1425,29-02-2024,Hyderabad,Spice Hub,Fast Food,1091,1,2266,4.6,Credit Card,Delivered
+1426,01-03-2024,Mumbai,Flavour Town,North Indian,1176,4,2210,3.5,Debit Card,Delivered
+1427,02-03-2024,Bangalore,Flavour Town,South Indian,234,3,2051,4.1,Credit Card,Delivered
+1428,03-03-2024,Pune,Urban Bites,North Indian,477,3,2118,3.7,Credit Card,Delivered
+1429,04-03-2024,Pune,Hot Plate,Italian,965,3,2201,4.3,UPI,Delivered
+1430,05-03-2024,Chennai,Spice Hub,Chinese,603,5,2039,3.5,Debit Card,Delivered
+1431,06-03-2024,Mumbai,Food Factory,South Indian,778,2,2028,3.4,Cash,Delivered
+1432,07-03-2024,Delhi,Royal Treat,North Indian,814,4,2259,4.8,Debit Card,Delivered
+1433,08-03-2024,Hyderabad,Spice Hub,Fast Food,161,5,2084,3.2,Credit Card,Delivered
+1434,09-03-2024,Delhi,Spice Hub,South Indian,453,4,2155,4,Cash,Delivered
+1435,10-03-2024,Mumbai,Urban Bites,South Indian,1124,4,2117,3.4,Debit Card,Delivered
+1436,11-03-2024,Mumbai,Hot Plate,North Indian,932,2,2002,3.1,Credit Card,Delivered
+1437,12-03-2024,Mumbai,Royal Treat,South Indian,192,3,2093,3.1,Credit Card,Cancelled
+1438,13-03-2024,Delhi,Flavour Town,Fast Food,1093,2,2166,3.4,UPI,Cancelled
+1439,14-03-2024,Mumbai,Flavour Town,South Indian,492,5,2296,4.7,UPI,Delivered
+1440,15-03-2024,Pune,Food Factory,Fast Food,647,5,2258,3.6,UPI,Delivered
+1441,16-03-2024,Delhi,Royal Treat,North Indian,513,5,2081,4.9,Credit Card,Delivered
+1442,17-03-2024,Mumbai,Flavour Town,Chinese,1040,2,2268,4.2,Debit Card,Delivered
+1443,18-03-2024,Pune,Food Factory,South Indian,576,4,2235,3.9,UPI,Delivered
+1444,19-03-2024,Chennai,Hot Plate,Chinese,1154,4,2213,4.2,Debit Card,Delivered
+1445,20-03-2024,Mumbai,Food Factory,Fast Food,170,1,2062,4,UPI,Delivered
+1446,21-03-2024,Delhi,Flavour Town,South Indian,556,5,2049,4.5,Cash,Delivered
+1447,22-03-2024,Bangalore,Urban Bites,Italian,768,4,2127,3.6,Cash,Delivered
+1448,23-03-2024,Mumbai,Urban Bites,Chinese,1164,1,2223,3.7,UPI,Delivered
+1449,24-03-2024,Bangalore,Urban Bites,South Indian,485,4,2279,4.8,Credit Card,Delivered
+1450,25-03-2024,Pune,Flavour Town,Chinese,548,5,2294,4.9,UPI,Delivered
+1451,26-03-2024,Chennai,Urban Bites,South Indian,942,3,2284,4.8,UPI,Delivered
+1452,27-03-2024,Hyderabad,Royal Treat,North Indian,864,5,2277,3.8,Credit Card,Delivered
+1453,28-03-2024,Chennai,Hot Plate,Chinese,200,2,2107,4.6,Cash,Delivered
+1454,29-03-2024,Mumbai,Food Factory,Italian,473,4,2146,4,Debit Card,Delivered
+1455,30-03-2024,Bangalore,Food Factory,Italian,938,4,2099,4,UPI,Delivered
+1456,31-03-2024,Bangalore,Flavour Town,Fast Food,290,2,2073,3.4,Credit Card,Delivered
+1457,01-04-2024,Delhi,Urban Bites,South Indian,619,2,2122,4.2,UPI,Delivered
+1458,02-04-2024,Bangalore,Urban Bites,Chinese,936,3,2030,3.4,Credit Card,Delivered
+1459,03-04-2024,Delhi,Spice Hub,Fast Food,1113,4,2188,3.7,Debit Card,Delivered
+1460,04-04-2024,Pune,Hot Plate,Chinese,1157,4,2288,4.7,Debit Card,Delivered
+1461,05-04-2024,Hyderabad,Royal Treat,South Indian,522,3,2195,3.4,Cash,Delivered
+1462,06-04-2024,Mumbai,Food Factory,Italian,643,1,2156,3.1,Credit Card,Delivered
+1463,07-04-2024,Delhi,Spice Hub,North Indian,900,3,2172,3.1,Credit Card,Delivered
+1464,08-04-2024,Hyderabad,Spice Hub,Italian,440,5,2041,4.9,Cash,Delivered
+1465,09-04-2024,Bangalore,Flavour Town,Fast Food,255,4,2063,4,Cash,Cancelled
+1466,10-04-2024,Bangalore,Food Factory,North Indian,819,2,2023,3.8,Credit Card,Delivered
+1467,11-04-2024,Hyderabad,Flavour Town,Fast Food,151,5,2075,4.6,Cash,Delivered
+1468,12-04-2024,Bangalore,Royal Treat,South Indian,738,4,2048,4.7,Debit Card,Delivered
+1469,13-04-2024,Pune,Spice Hub,North Indian,793,3,2160,3.7,UPI,Delivered
+1470,14-04-2024,Pune,Spice Hub,Fast Food,239,5,2118,4.4,Debit Card,Cancelled
+1471,15-04-2024,Hyderabad,Hot Plate,South Indian,499,4,2100,4.5,Cash,Delivered
+1472,16-04-2024,Delhi,Royal Treat,Italian,1058,1,2167,4.3,Credit Card,Delivered
+1473,17-04-2024,Delhi,Spice Hub,South Indian,308,1,2290,3.3,Credit Card,Delivered
+1474,18-04-2024,Hyderabad,Royal Treat,Chinese,1108,2,2156,4.8,Debit Card,Delivered
+1475,19-04-2024,Delhi,Food Factory,South Indian,461,4,2007,4.1,Credit Card,Delivered
+1476,20-04-2024,Delhi,Urban Bites,South Indian,594,1,2196,3.6,Cash,Delivered
+1477,21-04-2024,Pune,Spice Hub,Chinese,447,3,2056,3.9,Debit Card,Delivered
+1478,22-04-2024,Delhi,Hot Plate,Fast Food,1101,4,2193,3.1,Credit Card,Cancelled
+1479,23-04-2024,Chennai,Food Factory,Fast Food,185,3,2047,3.3,UPI,Delivered
+1480,24-04-2024,Mumbai,Royal Treat,South Indian,708,3,2148,4.5,UPI,Delivered
+1481,25-04-2024,Bangalore,Flavour Town,Chinese,1040,1,2275,3,Cash,Delivered
+1482,26-04-2024,Chennai,Food Factory,Chinese,290,4,2157,3.8,Credit Card,Delivered
+1483,27-04-2024,Delhi,Spice Hub,Italian,1036,5,2202,4,Cash,Delivered
+1484,28-04-2024,Pune,Royal Treat,Fast Food,875,1,2126,3.1,Debit Card,Delivered
+1485,29-04-2024,Hyderabad,Urban Bites,North Indian,1199,1,2294,4.9,UPI,Delivered
+1486,30-04-2024,Delhi,Food Factory,Fast Food,670,4,2064,3.5,Debit Card,Delivered
+1487,01-05-2024,Pune,Spice Hub,Fast Food,159,4,2176,3.6,Credit Card,Delivered
+1488,02-05-2024,Mumbai,Hot Plate,Italian,1133,3,2116,3.6,Cash,Cancelled
+1489,03-05-2024,Delhi,Flavour Town,North Indian,527,4,2204,3.5,Cash,Delivered
+1490,04-05-2024,Hyderabad,Royal Treat,Italian,831,3,2031,3,Cash,Delivered
+1491,05-05-2024,Pune,Food Factory,North Indian,733,1,2113,4.5,Debit Card,Delivered
+1492,06-05-2024,Pune,Food Factory,South Indian,301,2,2067,4.9,UPI,Delivered
+1493,07-05-2024,Pune,Urban Bites,North Indian,869,5,2075,3.4,Debit Card,Delivered
+1494,08-05-2024,Mumbai,Urban Bites,Italian,1008,1,2045,4.3,Debit Card,Delivered
+1495,09-05-2024,Delhi,Hot Plate,Fast Food,199,4,2260,4.5,Credit Card,Delivered
+1496,10-05-2024,Mumbai,Flavour Town,North Indian,813,5,2154,4.7,Credit Card,Delivered
+1497,11-05-2024,Bangalore,Hot Plate,North Indian,680,2,2155,3.8,Credit Card,Delivered
+1498,12-05-2024,Bangalore,Spice Hub,Chinese,1006,2,2234,3.6,UPI,Delivered
+1499,13-05-2024,Delhi,Spice Hub,Fast Food,295,3,2051,3.7,UPI,Delivered
+1500,14-05-2024,Mumbai,Hot Plate,South Indian,1064,5,2262,4.4,Credit Card,Delivered
